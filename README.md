@@ -1,2 +1,2 @@
-thish is my fie=rst repo.
+thish is my fierst repo.
 authore name is shubham kumar
